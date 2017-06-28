@@ -2,5 +2,7 @@
 {
   "editor.tabSize": 2,
   "workbench.editor.showTabs": true,
-  "editor.detectIndentation": false
+  "editor.detectIndentation": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.enablePreview": false
 }
